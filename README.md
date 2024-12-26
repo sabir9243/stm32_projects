@@ -1,1 +1,1 @@
-"# stm32_projects" 
+this repository is all about stm32 microcontrollers, cubeIDE and HAL library.
